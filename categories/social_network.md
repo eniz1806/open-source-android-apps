@@ -19,7 +19,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 656 | — |
 | [**FishChatAndroid**](https://github.com/oikomi/FishChatAndroid) | A chat application demonstrating modern Android development. | `Java` | Not specified | 64 | — |
 | [**ForkHub**](https://github.com/jonan/ForkHub) | A fork of the deprecated official GitHub Android app, which is still maintained. | `JavaScript` | `Apache-2.0` | 2.8k | — |
-| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 318 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
+| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 317 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
 | [**GitHub Visualizer**](https://github.com/dheerajkotwani/GithubVisualizer) | A GitHub client using the official API and Material UI components. | `Kotlin` | `MIT` | 121 | — |
 | [**GitPoint**](https://github.com/gitpoint/git-point) | A GitHub client with a minimal and beautiful user interface, built with React Native. | `JavaScript` | `MIT` | 4.8k | — |
 | [**Gitskarios**](https://github.com/gitskarios/Gitskarios) | A popular and feature-rich GitHub client for Android. | `Java` | `MIT` | 525 | — |
@@ -42,7 +42,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**PocketHub**](https://github.com/pockethub/PocketHub) | A community-maintained fork of the original official GitHub Android app. | `Java` | `Apache-2.0` | 9.4k | — |
 | [**Qiitanium**](https://github.com/ogaclejapan/Qiitanium) | An unofficial client for the Japanese technical knowledge sharing service, Qiita. | `Java` | `MIT` | 251 | — |
 | [**ribot-app-android**](https://github.com/ribot/ribot-app-android) | The official studio app for the ribot agency, showcasing their work. (Archived) | `Java` | `Apache-2.0` | 1.2k | — |
-| [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | `Kotlin` | `GPL-3.0` | 36.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.github.shadowsocks) |
+| [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | `Kotlin` | `GPL-3.0` | 36.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.github.shadowsocks) |
 | [**Skooter**](https://github.com/prathmeshranaut/skooterapp) | A client for an anonymous social network. (Archived) | `Java` | `Apache-2.0` | 59 | — |
 | [**Talon for Twitter**](https://github.com/klinker24/talon-twitter-holo) | The fully open-source version of the popular Talon for Twitter app. | `Java` | `Apache-2.0` | 1.7k | — |
 | [**TEDxTehran**](https://github.com/TEDxTehran-Team/event-app-android) | The official event application for TEDxTehran. | `Kotlin` | `Apache-2.0` | 17 | — |
